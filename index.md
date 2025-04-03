@@ -5,14 +5,16 @@ layout: home
 hero:
   name: "Documentation TP02"
   text: "Documentation du TP02 du cours Développement d'applications Web"
-  tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Semaine 1
+      link: /semaine-1
+    - theme: brand
+      text: Semaine 2
+      link: /semaine-2
+    - theme: brand
+      text: Semaine 3
+      link: /semaine-3
 
 features:
   - title: Feature A
@@ -22,4 +24,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
