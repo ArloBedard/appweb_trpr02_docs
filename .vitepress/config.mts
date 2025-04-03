@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Documentation TP02",
+  base: '/appweb_trpr02_docs/',
   description: "Documentation du TP02 du cours Développement d'applications Web",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
